@@ -1,6 +1,7 @@
 # Sharity - Hackmol 5.0 ♻
 Sharity is a web application aimed at reducing food waste and combating hunger by facilitating the redistribution of surplus food from events, parties, and colleges to those in need. Built with HTML, CSS, and JavaScript, Sharity provides a platform for individuals and businesses to connect and contribute to a meaningful cause.
 > Sharity • Sharing Hope - Food Redistribution Network: Connecting Surplus to the Needy
+
 Sharity offers a user-friendly interface for food donors to easily share excess food by filling a form and for recipients to receive nourishment with dignity. By harnessing the power of technology, Sharity aims to foster collaboration and empathy to create a world where no one goes hungry.
 
 [![PROJECT VIDEO](https://img.shields.io/badge/PROJECT%20VIDEO-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/kbk18UY7upc?si=EDWPteBq8udJNwT8)
@@ -14,6 +15,9 @@ From over 4000+ participants across the country, our team "COSMIC" was among the
 - Work distribution: Shared tasks well among us. 
 - Team building: Became a stronger team together.
 - Product pitching: Got better at explaining our idea.
+
+## Participation Certificate
+![Hackmol 5 0 Certificate](https://github.com/codingstella/personal-blog-website/assets/113582974/50e40c61-e2a5-4da7-8b69-a3b5839c8e92)
 
 ## How to Run ⚙
 
