@@ -2,9 +2,12 @@
 Sharity is a web application aimed at reducing food waste and combating hunger by facilitating the redistribution of surplus food from events, parties, and colleges to those in need. Built with HTML, CSS, and JavaScript, Sharity provides a platform for individuals and businesses to connect and contribute to a meaningful cause.
 > Sharity • Sharing Hope - Food Redistribution Network: Connecting Surplus to the Needy
 
+[![Project Link](https://img.shields.io/badge/Project%20Link-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharity.onrender.com/)
+
 Sharity offers a user-friendly interface for food donors to easily share excess food by filling a form and for recipients to receive nourishment with dignity. By harnessing the power of technology, Sharity aims to foster collaboration and empathy to create a world where no one goes hungry.
 
-[![PROJECT VIDEO](https://img.shields.io/badge/PROJECT%20VIDEO-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/kbk18UY7upc?si=EDWPteBq8udJNwT8)
+[![PROJECT VIDEO](https://img.shields.io/badge/PROJECT%20VIDEO-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/kbk18UY7upc?si=EDWPteBq8udJNwT8)  &nbsp;
+[![On Devfolio](https://img.shields.io/badge/On%20Devfolio-%23808080?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/projects/Sharity-137a)
 
 ## About Hackmol 5.0 - Hackathon 🚀
 HackMol 5.0 is fifth-edition of community-focused 30-hour hackathon organized by DSC NIT Jalandhar. The participants must develop an idea and submit the PPT on the Devfolio Platform. The selected student would be invited to join Round 2 taking Place offline at NIT Jalandhar.
